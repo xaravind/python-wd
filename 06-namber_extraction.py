@@ -10,4 +10,4 @@ number="0123456789"
 
 for i in inp_str:
     if i in number:
-        print(i+)
+        print(i)
